@@ -89,7 +89,7 @@ body {
 	padding: 0 0 0 43px;
 }
 
-.header__logo:before {
+.header__logo::before {
 	content: '';
 	background: url('../img/icons/Logo1.svg') left no-repeat;
 	width: 34px;
