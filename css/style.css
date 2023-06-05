@@ -128,7 +128,6 @@ background: url('../img/bg.jpg') center / cover no-repeat;
 border-radius: 0px 0px 0px 291px;
 padding: 340px 0 340px 0  ;
 max-height: auto;
-flex: 1 0 auto;
 }
 .introduction__content{
 	max-width: 567px;
