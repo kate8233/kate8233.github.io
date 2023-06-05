@@ -91,7 +91,7 @@ body {
 
 .header__logo:before {
 	content: '';
-	background: url('../img/icons/Logo1.svg') left no-repeat;
+	background: url('../img/icon/Logo1.svg') left no-repeat;
 	width: 34px;
 	height: 34px;
 	position: absolute;
@@ -166,7 +166,7 @@ max-height: auto;
 .introduction__button span:after {
 	display: inline-block;
 	content: '';
-	background: url('../img/icons/Vector.png') right no-repeat;
+	background: url('../img/icon/Vector.png') right no-repeat;
 	width: 20px;
 	height: 20px;
 	position: absolute;
@@ -218,7 +218,7 @@ max-height: auto;
 .description__button::after{
 	content:'';
 	display: inline-block;
-	background: url('../img/icons/Vector3.svg') 0 0 no-repeat;
+	background: url('../img/icon/Vector3.svg') 0 0 no-repeat;
 	height: 20px;
 	width: 18px;
 	position: absolute;
@@ -303,7 +303,7 @@ position: relative;}
 .estatimate__btn span:after {
 	display: inline-block;
 	content: '';
-	background: url('../img/icons/Vector.png') right no-repeat;
+	background: url('../img/icon/Vector.png') right no-repeat;
 	width: 20px;
 	height: 20px;
 	position: absolute;
