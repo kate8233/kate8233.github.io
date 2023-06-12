@@ -388,10 +388,19 @@ border-radius: 50px;
 }
 .reviews__client__person{
 	text-align: center;
+	align-items:center;
+}
+.reviews__client__person img{
+	flex: 0 0 50px;
+	height: 50px;
 }
 .reviews__item p{
 	flex: 0 1 60%;
-	padding: 0 15px;
+	padding: 0 10px;
+}
+.reviews__client__info {
+	padding:0 0 0 15px;
+
 }
 
 }
