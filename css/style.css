@@ -365,11 +365,11 @@ align-items: center;
 }
 
 .reviews{
-	margin: 75px 0;
+	margin: 75px 0 ;
 }
 .reviews__body{
 	border-radius: 40px;
-	padding: 44px 0;
+	padding: 44px 0 20px 0;
 }
 .reviews__title {
 	margin-bottom: 10px;
